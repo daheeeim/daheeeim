@@ -1,9 +1,9 @@
 # daheeeim
 
-1. School: 
-2. Major:
-3. Skils:
-4. Award:
+1. School: ShungShin W. Univ.
+2. Major: Convergence security engineering
+3. Skils:-
+4. Award:-
 5. Project List:
 
 |기간| 프로젝트명| 소속|Git링크|
